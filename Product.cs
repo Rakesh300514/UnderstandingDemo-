@@ -1,1 +1,2 @@
-Console.WriteLine("This is a product code from b1"); Console.WriteLine("This is a product code from b2"); 
+Console.WriteLine("This is a product code from b1"); 
+Console.WriteLine("This is a product code from b2"); 
