@@ -12,5 +12,9 @@ public class Program{
     {
         Console.WriteLine("Rakesh");
     }
+    public void Bro()
+    {
+        Console.WriteLine("Rakesh Bro");
+    }
     
 }
