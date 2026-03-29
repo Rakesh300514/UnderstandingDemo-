@@ -8,5 +8,9 @@ public class Program{
     {
         Console.WriteLine("Hello World"); 
     }
+    public void MyHello()
+    {
+        Console.WriteLine("Rakesh");
+    }
     
 }
