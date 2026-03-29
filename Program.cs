@@ -4,5 +4,9 @@ public class Program{
     int d; 
     int v; 
     int c; 
+    public void Hello()
+    {
+        Console.WriteLine("Hello World"); 
+    }
     
 }
