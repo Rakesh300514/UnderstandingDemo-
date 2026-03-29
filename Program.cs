@@ -6,4 +6,8 @@ public class Program{
     {
         Console.WriteLine("Oh my God");
     }
+    public void Meow()
+    {
+        Console.WriteLine("Gop GOP");
+    }
 }
