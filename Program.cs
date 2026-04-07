@@ -13,7 +13,12 @@ public class Program
         {
             Console.WriteLine("Hello world"); 
             A.Price += 1 ; 
+            A.Work += 10;
         }
+        Console.WriteLine(A.Work); 
+        Console.WriteLine(A.Work); 
+        Console.WriteLine(A.Work*10); 
+        Console.WriteLine(AbandonedMutexException);
     }
 // why is that my 
 }
