@@ -13,7 +13,9 @@ public class Program
         {
             Console.WriteLine("Hello world"); 
             A.Price += 1 ; 
+            A.Work += 10;
         }
+        Console.WriteLine(A.Work); 
     }
 // why is that my 
 }
