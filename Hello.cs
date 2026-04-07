@@ -1,1 +1,4 @@
-Console.WriteLine("Hello");
+public class Hello
+{
+    public int Price { get; set; } 
+}
