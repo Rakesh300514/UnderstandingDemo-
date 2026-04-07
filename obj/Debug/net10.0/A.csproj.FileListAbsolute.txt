@@ -1,0 +1,15 @@
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\bin\Debug\net10.0\A.exe
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\bin\Debug\net10.0\A.deps.json
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\bin\Debug\net10.0\A.runtimeconfig.json
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\bin\Debug\net10.0\A.dll
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\bin\Debug\net10.0\A.pdb
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\obj\Debug\net10.0\A.GeneratedMSBuildEditorConfig.editorconfig
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\obj\Debug\net10.0\A.AssemblyInfoInputs.cache
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\obj\Debug\net10.0\A.AssemblyInfo.cs
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\obj\Debug\net10.0\A.csproj.CoreCompileInputs.cache
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\obj\Debug\net10.0\A.sourcelink.json
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\obj\Debug\net10.0\A.dll
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\obj\Debug\net10.0\refint\A.dll
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\obj\Debug\net10.0\A.pdb
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\obj\Debug\net10.0\A.genruntimeconfig.cache
+C:\CTS TRAINING\GitTutorial\UnderstandingDemo-\obj\Debug\net10.0\ref\A.dll
