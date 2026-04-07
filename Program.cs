@@ -1,14 +1,14 @@
 using System.Net.Http.Headers;
-using System; 
+using System;
+using System.Net.Security;
 
-namespace Hello; 
 public class Program
 {
     public static void Main(string[] args)
     {   
-        Hello A = new Hello();
         
-        A.Price = 10;  
+        Product pro = new Product(); 
+        pro.Price +=1; 
         for(int i = 0; i < 10; i++)
         {
             Console.WriteLine("Hello world"); 

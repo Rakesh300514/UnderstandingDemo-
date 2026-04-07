@@ -1,4 +1,4 @@
 public class Hello
 {
-    public int HelloValue { get; set; }
+    public int Price { get; set; } 
 }
