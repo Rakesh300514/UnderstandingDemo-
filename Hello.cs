@@ -1,4 +1,1 @@
-public class Hello
-{
-    public int Price { get; set; } 
-}
+public int MyPrice { get; set; }
