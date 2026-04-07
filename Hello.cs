@@ -1,0 +1,1 @@
+public int MyPrice { get; set; }
